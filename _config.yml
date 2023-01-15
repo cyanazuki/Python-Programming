@@ -6,14 +6,12 @@ course_semester: "Spring 2023"
 baseurl: "/Python-Programming" # the subpath of your site, e.g. /blog/
 url: "https://cyanazuki.github.io/" # the base hostname & protocol for your site
 
-schoolname: "Hogwarts"
-schoolurl: "https://hogwarts.edu"
-twitter_username: username 
+schoolname: "National Sun Yat-Sen University"
+schoolurl: "https://www.nsysu.edu.tw/"
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+    No.70 Lien-hai Rd., Kaohsiung 80424, 
+    Taiwan
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
